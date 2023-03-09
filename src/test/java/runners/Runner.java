@@ -40,4 +40,5 @@ public class Runner {
                 sadece adimlari kontrol eder ve eksik adim VARSA kodlari olusturur
                 EKSIK ADIM YOKSA hic bir adimi calistirmadan TEST PASSED der
                 buradaki test passed "EKSIK ADIM YOK" anlamina gelmektedir
+
  */

@@ -73,8 +73,10 @@ public class AmazonStepdefinitions {
 
     @And("{int} saniye bekler")
     public void saniyeBekler(int istenenSaniye) {
+
         ReusableMethods.bekle(istenenSaniye);
     }
+
     @Given("kullanici {string} anasayfaya gider")
     public void kullanici_anasayfaya_gider(String istenenUrl) {
         Driver.getDriver().get(ConfigReader.getProperty(istenenUrl));
