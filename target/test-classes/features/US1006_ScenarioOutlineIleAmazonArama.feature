@@ -1,3 +1,4 @@
+@ss
 Feature: US1006 Kullanici Scenario outline ile birden fazla kelime aratir
 
   Scenario Outline: TC10 Amazon coklu urun testi

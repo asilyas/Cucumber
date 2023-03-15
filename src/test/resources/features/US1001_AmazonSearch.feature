@@ -1,3 +1,4 @@
+@wip
 Feature: US101 Kullanici amazon sayfasinda arama yapar
 
   Scenario: TC101 Kullanici Amazonda Nutella aratir
